@@ -1,8 +1,9 @@
 # Business-Predictive-Analytics-Python-
 
 e-commerce dataset 
-(1) Metrics
 
+
+(1) Metrics
 (Data set: transaction log, Product, Customer) 
 Computed Monthly Metrics: [
 
