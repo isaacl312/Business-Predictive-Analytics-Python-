@@ -30,3 +30,10 @@ What metrics do we track?
 •	Net New MRR: (New MRR + Expansion MRR) — (Churned MRR + Contraction MRR)
 •	MRR Churn/Accounts Churn: % of users who left this month, but were active last month
 •	ARPU: Average Revenue Per User (Account)
+
+
+Fast Rolling 1M growth metrics in SQL
+(1) DAU : unique active user 1M
+(2) first month activation rate (new/DAU)
+(3) Retention rate mom    (MAU1m/ MAU2m-1m)
+(4) Reactivation rate mom (MAU1m/ not active 2m-1m)
