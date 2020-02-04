@@ -17,3 +17,16 @@ Computed Monthly Metrics: [
 (Monthly Customer Ratio by Segmentation),
 (Monthly Retention      by Segmentation)
 (Cohort based retention rate)
+
+
+
+What metrics do we track?
+•	MRR — Monthly Recurring Revenue
+•	# of Paying Accounts
+•	New MRR: Additional MRR from new customers
+•	Expansion MRR: Additional MRR from existing customers upgrades
+•	Churned MRR: MRR lost from cancellations
+•	Contraction MRR: MRR lost from existing customers downgrades
+•	Net New MRR: (New MRR + Expansion MRR) — (Churned MRR + Contraction MRR)
+•	MRR Churn/Accounts Churn: % of users who left this month, but were active last month
+•	ARPU: Average Revenue Per User (Account)
